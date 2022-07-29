@@ -31,9 +31,9 @@ prefix=<prefix-bot>
 ```
 
 ## Support 💠
-Discord Acount : `!ZombieX#0001`
-[Server Discord](https://discord.gg/crJx77aEsq)
+Discord Acount : `! HOUSSAM#9765`
+[Server Discord](https://discord.com/invite/FcvBUj2Amf)
 [YouTube Channel](https://youtube.com/channel/UC0A5FZItuziL5iWIinQeKcQ)
 
-### All rights reserved to `ZombieX` 
+### All rights reserved to `Houssam` 
  
